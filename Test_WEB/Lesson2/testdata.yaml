@@ -1,0 +1,3 @@
+driver_path: "C:\Users\lahja\GB\WEB_selenium\chrome-win64\chrome-win64\chrome.exe"
+sleep_time: 5
+address: https://test-stand.gb.ru
